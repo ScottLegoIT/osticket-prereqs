@@ -32,7 +32,7 @@ Hello and welcome to my first tutorial! First things first we will have to creat
   ![image](https://github.com/user-attachments/assets/95db4f85-684c-4a98-bb66-6005f232f2a1)
 
  <img src="![image](https://github.com/user-attachments/assets/c7a11e94-e439-4543-8e2f-b2a9a6495c68)
-" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+" height="80%" width="80%" alt=""/>
 </p>
 <br />
 <p>
