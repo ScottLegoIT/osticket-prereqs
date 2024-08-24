@@ -29,7 +29,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <p>
 Hello and welcome to my first tutorial! First things first we will have to create a Virtual machine using the Microsoft Azure portal. We will be using a VM which is a remote computer. We are using a VM in order to protect our physical machine just in case something breaks. Create a resource group and title it "osTicket". Afterwards create a VM with 2-4 CPUs. In this example I will be using 4 CPUs.
-  
+  ![image](https://github.com/user-attachments/assets/95db4f85-684c-4a98-bb66-6005f232f2a1)
+
  <img src="![image](https://github.com/user-attachments/assets/c7a11e94-e439-4543-8e2f-b2a9a6495c68)
 " height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
