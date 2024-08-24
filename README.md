@@ -6,6 +6,9 @@
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
 
+<h2>Video Demonstration</h2>
+
+- ### https://www.youtube.com/watch?v=QEtZC9JWvJc
 
 <h2>Environments and Technologies Used</h2>
 
@@ -30,8 +33,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
 Hello and welcome to my first tutorial! First things first we will have to create a Virtual machine using the Microsoft Azure portal. We will be using a VM which is a remote computer. We are using a VM in order to protect our physical machine just in case something breaks. Create a resource group and title it "osTicket". Afterwards create a VM with 2-4 CPUs. In this example I will be using 4 CPUs.
   
- <img src="![Pkbp54y - Imgur](https://github.com/user-attachments/assets/a17272e5-7b98-4574-8586-a342be276e45)
-" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <img src="https://i.imgur.com/OPaIGoN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 <p>
@@ -52,7 +54,7 @@ Alright, now that you are connected to your VM you will have to enable IIS. Simp
 <br />
 </p>
 <p>
-Excellent. Now that you have enabled IIS we need to install Web Platform Installer. I have provided a link here: https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
+ Now that you have enabled IIS we need to install Web Platform Installer. I have provided a link here: https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
   That link will provide you with all of the material you need to download to get osTicket up and running. Simply click the link and install the Web Platform Installer
 </p>
 <img src="https://i.imgur.com/AxHCfQ6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
